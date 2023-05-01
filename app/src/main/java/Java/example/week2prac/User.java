@@ -1,4 +1,4 @@
-package madpractical.example.week2prac;
+package Java.example.week2prac;
 
 public class User{
     public String Name;

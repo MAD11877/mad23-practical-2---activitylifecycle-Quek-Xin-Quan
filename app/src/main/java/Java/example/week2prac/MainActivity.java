@@ -1,4 +1,4 @@
-package madpractical.example.week2prac;
+package Java.example.week2prac;
 
 import androidx.appcompat.app.AppCompatActivity;
 

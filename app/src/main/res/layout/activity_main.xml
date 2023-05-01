@@ -23,14 +23,14 @@
             android:textStyle="bold"
             app:layout_constraintEnd_toEndOf="parent"
             app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toBottomOf="@+id/imageView" />
+            app:layout_constraintTop_toBottomOf="@+id/imageView2" />
 
         <TextView
             android:id="@+id/textView2"
             android:layout_width="258dp"
             android:layout_height="113dp"
             android:layout_marginStart="32dp"
-            android:layout_marginTop="8dp"
+            android:layout_marginTop="20dp"
             android:layout_marginEnd="32dp"
             android:text="Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua"
             android:textAlignment="center"
@@ -66,24 +66,16 @@
             app:layout_constraintTop_toBottomOf="@+id/textView2" />
 
         <ImageView
-            android:id="@+id/imageView"
-            android:layout_width="128dp"
-            android:layout_height="128dp"
-            android:layout_marginTop="32dp"
-            app:layout_constraintEnd_toEndOf="parent"
-            app:layout_constraintStart_toStartOf="parent"
-            app:layout_constraintTop_toTopOf="parent"
-            app:srcCompat="@drawable/ic_launcher_background" />
-
-        <ImageView
             android:id="@+id/imageView2"
             android:layout_width="128dp"
             android:layout_height="128dp"
             android:layout_marginTop="32dp"
+            android:contentDescription="@string/Image"
             app:layout_constraintEnd_toEndOf="parent"
+            app:layout_constraintHorizontal_bias="0.498"
             app:layout_constraintStart_toStartOf="parent"
             app:layout_constraintTop_toTopOf="parent"
-            app:srcCompat="@drawable/ic_launcher_foreground" />
+            app:srcCompat="@android:drawable/sym_def_app_icon" />
 
 
     </androidx.constraintlayout.widget.ConstraintLayout>

@@ -1,4 +1,4 @@
-package Java.example.week2prac;
+package com.example.week2prac;
 
 public class User{
     public String Name;

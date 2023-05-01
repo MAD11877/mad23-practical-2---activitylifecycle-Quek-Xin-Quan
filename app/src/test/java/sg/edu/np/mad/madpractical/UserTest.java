@@ -1,4 +1,4 @@
-package Java.example.week2prac;
+package com.example.week2prac;
 
 import org.junit.Test;
 

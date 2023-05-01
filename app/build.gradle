@@ -7,7 +7,7 @@ android {
     compileSdk 33
 
     defaultConfig {
-        applicationId "com.example.week2prac"
+        applicationId "sg.edu.np.mad.madpractical"
         minSdk 21
         targetSdk 33
         versionCode 1

@@ -1,4 +1,4 @@
-package com.example.week2prac;
+package madpractical.example.week2prac;
 
 import android.content.Context;
 

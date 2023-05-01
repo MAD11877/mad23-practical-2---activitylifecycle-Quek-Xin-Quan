@@ -1,15 +1,13 @@
-package com.example.week2prac;
+package madpractical.example.week2prac;
 
 import androidx.appcompat.app.AppCompatActivity;
 
-import android.content.res.Configuration;
 import android.os.Bundle;
 import android.util.Log;
 import android.view.View;
 import android.widget.Button;
 
-import java.lang.reflect.Array;
-import java.util.ArrayList;
+import com.example.week2prac.R;
 
 public class MainActivity extends AppCompatActivity {
     final String TITLE = "Main Activity";

@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Week2Prac</string>
+    <string name="Follow">Follow</string>
+    <string name="Message">Message</string>
+    <string name="Image">Image</string>
+    <string name="textview">Lorem ipsum dolor sit amet</string>
+</resources>
